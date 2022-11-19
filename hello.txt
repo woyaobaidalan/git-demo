@@ -2,12 +2,19 @@ lhg hello！！
 fjjdfj
 fjjajf
 <<<<<<< HEAD
+<<<<<<< HEAD
 dkfkajjfjjdk
 fjj
-=======
+======
 lhg 123
 lhg 123
 >>>>>>> lhg
 
-master write!!
+master wrte!!
 111
+=======
+lhg 123
+
+
+lhg-tet
+>>>>>>> lhg
