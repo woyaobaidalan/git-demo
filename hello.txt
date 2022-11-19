@@ -19,3 +19,4 @@ lhg 123
 lhg-tet
 >>>>>>> l
 wo zai git shang xiu gaide
+use ssh xiugai...
