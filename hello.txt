@@ -1,5 +1,13 @@
 lhg hello！！
 fjjdfj
 fjjajf
+<<<<<<< HEAD
 dkfkajjfjjdk
 fjj
+=======
+lhg 123
+lhg 123
+>>>>>>> lhg
+
+master write!!
+111
